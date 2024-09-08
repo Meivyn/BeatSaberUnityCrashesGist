@@ -400,7 +400,7 @@ C:\WINDOWS\SYSTEM32\dbghelp.dll:dbghelp.dll (00007FF8A8A20000), size: 2301952 (r
 ========== END OF STACKTRACE ===========
 
 A crash has been intercepted by the crash handler. For call stack and other details, see the latest crash report generated in:
- * C:/Users/Adrian/AppData/Local/Temp/Hyperbolic Magnetism/Beat Saber/Crashes
+ * C:/Users/[REDACTED]/AppData/Local/Temp/Hyperbolic Magnetism/Beat Saber/Crashes
 ``` 
 </details>
 
@@ -425,14 +425,14 @@ Solution: Apparently fixed by deleting the AppData folder.
 <summary>Player.log</summary>
 
 ```
-Mono path[0] = 'C:/Users/overlap/BSManager/BSInstances/1.34.2/Beat Saber_Data/Managed'
-Mono config path = 'C:/Users/overlap/BSManager/BSInstances/1.34.2/MonoBleedingEdge/etc'
+Mono path[0] = 'C:/Users/[REDACTED]/BSManager/BSInstances/1.34.2/Beat Saber_Data/Managed'
+Mono config path = 'C:/Users/[REDACTED]/BSManager/BSInstances/1.34.2/MonoBleedingEdge/etc'
 [Debug] Resolving library Newtonsoft.Json, Version=12.0.0.0, Culture=neutral
 [Debug] Looking for file Newtonsoft.Json.dll
-[Debug] Found file Newtonsoft.Json.dll as C:\Users\overlap\BSManager\BSInstances\1.34.2\Libs\Newtonsoft.Json.dll
-Fallback handler could not load library C:/Users/overlap/BSManager/BSInstances/1.34.2/Beat Saber_Data/MonoBleedingEdge/data-000001EB4C3D8F60.dll
+[Debug] Found file Newtonsoft.Json.dll as C:\Users\[REDACTED]\BSManager\BSInstances\1.34.2\Libs\Newtonsoft.Json.dll
+Fallback handler could not load library C:/Users/[REDACTED]/BSManager/BSInstances/1.34.2/Beat Saber_Data/MonoBleedingEdge/data-000001EB4C3D8F60.dll
 Initialize engine version: 2021.3.16f1 (4016570cf34f)
-[Subsystems] Discovering subsystems at path C:/Users/overlap/BSManager/BSInstances/1.34.2/Beat Saber_Data/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/[REDACTED]/BSManager/BSInstances/1.34.2/Beat Saber_Data/UnitySubsystems
 [Subsystems] No descriptors matched for  examples in UnitySubsystems/OculusXRPlugin/UnitySubsystemsManifest.json.
 [Subsystems] 1 'inputs' descriptors matched in UnitySubsystems/OculusXRPlugin/UnitySubsystemsManifest.json
 [Subsystems] 1 'displays' descriptors matched in UnitySubsystems/OculusXRPlugin/UnitySubsystemsManifest.json
@@ -538,22 +538,22 @@ Error [GENERAL | xrCreateInstance | OpenXR-Loader] : xrCreateInstance failed
 ==== End Unity OpenXR Diagnostic Report ====
 
 
-Fallback handler could not load library C:/Users/overlap/BSManager/BSInstances/1.34.2/Beat Saber_Data/MonoBleedingEdge/OculusXRPlugin
-Fallback handler could not load library C:/Users/overlap/BSManager/BSInstances/1.34.2/Beat Saber_Data/MonoBleedingEdge/OculusXRPlugin.dll
-Fallback handler could not load library C:/Users/overlap/BSManager/BSInstances/1.34.2/Beat Saber_Data/MonoBleedingEdge/OculusXRPlugin.dll
-Fallback handler could not load library C:/Users/overlap/BSManager/BSInstances/1.34.2/Beat Saber_Data/MonoBleedingEdge/OculusXRPlugin
-Fallback handler could not load library C:/Users/overlap/BSManager/BSInstances/1.34.2/Beat Saber_Data/MonoBleedingEdge/libOculusXRPlugin
-Fallback handler could not load library C:/Users/overlap/BSManager/BSInstances/1.34.2/Beat Saber_Data/MonoBleedingEdge/libOculusXRPlugin.dll
-Fallback handler could not load library C:/Users/overlap/BSManager/BSInstances/1.34.2/Beat Saber_Data/MonoBleedingEdge/libOculusXRPlugin.dll
-Fallback handler could not load library C:/Users/overlap/BSManager/BSInstances/1.34.2/Beat Saber_Data/MonoBleedingEdge/libOculusXRPlugin
-Fallback handler could not load library C:/Users/overlap/BSManager/BSInstances/1.34.2/Beat Saber_Data/MonoBleedingEdge/OculusXRPlugin
-Fallback handler could not load library C:/Users/overlap/BSManager/BSInstances/1.34.2/Beat Saber_Data/MonoBleedingEdge/OculusXRPlugin.dll
-Fallback handler could not load library C:/Users/overlap/BSManager/BSInstances/1.34.2/Beat Saber_Data/MonoBleedingEdge/OculusXRPlugin.dll
-Fallback handler could not load library C:/Users/overlap/BSManager/BSInstances/1.34.2/Beat Saber_Data/MonoBleedingEdge/OculusXRPlugin
-Fallback handler could not load library C:/Users/overlap/BSManager/BSInstances/1.34.2/Beat Saber_Data/MonoBleedingEdge/libOculusXRPlugin
-Fallback handler could not load library C:/Users/overlap/BSManager/BSInstances/1.34.2/Beat Saber_Data/MonoBleedingEdge/libOculusXRPlugin.dll
-Fallback handler could not load library C:/Users/overlap/BSManager/BSInstances/1.34.2/Beat Saber_Data/MonoBleedingEdge/libOculusXRPlugin.dll
-Fallback handler could not load library C:/Users/overlap/BSManager/BSInstances/1.34.2/Beat Saber_Data/MonoBleedingEdge/libOculusXRPlugin
+Fallback handler could not load library C:/Users/[REDACTED]/BSManager/BSInstances/1.34.2/Beat Saber_Data/MonoBleedingEdge/OculusXRPlugin
+Fallback handler could not load library C:/Users/[REDACTED]/BSManager/BSInstances/1.34.2/Beat Saber_Data/MonoBleedingEdge/OculusXRPlugin.dll
+Fallback handler could not load library C:/Users/[REDACTED]/BSManager/BSInstances/1.34.2/Beat Saber_Data/MonoBleedingEdge/OculusXRPlugin.dll
+Fallback handler could not load library C:/Users/[REDACTED]/BSManager/BSInstances/1.34.2/Beat Saber_Data/MonoBleedingEdge/OculusXRPlugin
+Fallback handler could not load library C:/Users/[REDACTED]/BSManager/BSInstances/1.34.2/Beat Saber_Data/MonoBleedingEdge/libOculusXRPlugin
+Fallback handler could not load library C:/Users/[REDACTED]/BSManager/BSInstances/1.34.2/Beat Saber_Data/MonoBleedingEdge/libOculusXRPlugin.dll
+Fallback handler could not load library C:/Users/[REDACTED]/BSManager/BSInstances/1.34.2/Beat Saber_Data/MonoBleedingEdge/libOculusXRPlugin.dll
+Fallback handler could not load library C:/Users/[REDACTED]/BSManager/BSInstances/1.34.2/Beat Saber_Data/MonoBleedingEdge/libOculusXRPlugin
+Fallback handler could not load library C:/Users/[REDACTED]/BSManager/BSInstances/1.34.2/Beat Saber_Data/MonoBleedingEdge/OculusXRPlugin
+Fallback handler could not load library C:/Users/[REDACTED]/BSManager/BSInstances/1.34.2/Beat Saber_Data/MonoBleedingEdge/OculusXRPlugin.dll
+Fallback handler could not load library C:/Users/[REDACTED]/BSManager/BSInstances/1.34.2/Beat Saber_Data/MonoBleedingEdge/OculusXRPlugin.dll
+Fallback handler could not load library C:/Users/[REDACTED]/BSManager/BSInstances/1.34.2/Beat Saber_Data/MonoBleedingEdge/OculusXRPlugin
+Fallback handler could not load library C:/Users/[REDACTED]/BSManager/BSInstances/1.34.2/Beat Saber_Data/MonoBleedingEdge/libOculusXRPlugin
+Fallback handler could not load library C:/Users/[REDACTED]/BSManager/BSInstances/1.34.2/Beat Saber_Data/MonoBleedingEdge/libOculusXRPlugin.dll
+Fallback handler could not load library C:/Users/[REDACTED]/BSManager/BSInstances/1.34.2/Beat Saber_Data/MonoBleedingEdge/libOculusXRPlugin.dll
+Fallback handler could not load library C:/Users/[REDACTED]/BSManager/BSInstances/1.34.2/Beat Saber_Data/MonoBleedingEdge/libOculusXRPlugin
 <RI> Initializing input.
 
 New input system (experimental) initialized
@@ -566,8 +566,8 @@ UnloadTime: 0.661300 ms
 OnLevelWasLoaded was found on PluginComponent
 This message has been deprecated and will be removed in a later version of Unity.
 Add a delegate to SceneManager.sceneLoaded instead to get notifications after scene loading has completed
-Fallback handler could not load library C:/Users/overlap/BSManager/BSInstances/1.34.2/Beat Saber_Data/MonoBleedingEdge/data-000001EBBFDEDAF0.dll
-Fallback handler could not load library C:/Users/overlap/BSManager/BSInstances/1.34.2/Beat Saber_Data/MonoBleedingEdge/data-000001EC51705050.dll
+Fallback handler could not load library C:/Users/[REDACTED]/BSManager/BSInstances/1.34.2/Beat Saber_Data/MonoBleedingEdge/data-000001EBBFDEDAF0.dll
+Fallback handler could not load library C:/Users/[REDACTED]/BSManager/BSInstances/1.34.2/Beat Saber_Data/MonoBleedingEdge/data-000001EC51705050.dll
 [MainSystemInit] Network Service Environment: ProductionC
 [MainSystemInit] Initialization was completed on version: 1.34.2_7115288407
 Setting breakpad minidump AppID = 620980
@@ -882,13 +882,13 @@ used by your application.
 =================================================================
 =================================================================
 Crash!!!
-SymInit: Symbol-SearchPath: '.;C:\Users\overlap\BSManager\BSInstances\1.34.2;C:\Users\overlap\BSManager\BSInstances\1.34.2;C:\WINDOWS;C:\WINDOWS\system32;', symOptions: 534, UserName: 'overlap'
+SymInit: Symbol-SearchPath: '.;C:\Users\[REDACTED]\BSManager\BSInstances\1.34.2;C:\Users\[REDACTED]\BSManager\BSInstances\1.34.2;C:\WINDOWS;C:\WINDOWS\system32;', symOptions: 534, UserName: 'overlap'
 OS-Version: 10.0.0
-C:\Users\overlap\BSManager\BSInstances\1.34.2\Beat Saber.exe:Beat Saber.exe (00007FF7307C0000), size: 675840 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 2021.3.16.5719
+C:\Users\[REDACTED]\BSManager\BSInstances\1.34.2\Beat Saber.exe:Beat Saber.exe (00007FF7307C0000), size: 675840 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 2021.3.16.5719
 C:\WINDOWS\SYSTEM32\ntdll.dll:ntdll.dll (00007FFED6ED0000), size: 2064384 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.4522
 C:\WINDOWS\System32\KERNEL32.DLL:KERNEL32.DLL (00007FFED6DC0000), size: 790528 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.4597
 C:\WINDOWS\System32\KERNELBASE.dll:KERNELBASE.dll (00007FFED4840000), size: 3104768 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.4597
-C:\Users\overlap\BSManager\BSInstances\1.34.2\UnityPlayer.dll:UnityPlayer.dll (00007FFE74070000), size: 30224384 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 2021.3.16.5719
+C:\Users\[REDACTED]\BSManager\BSInstances\1.34.2\UnityPlayer.dll:UnityPlayer.dll (00007FFE74070000), size: 30224384 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 2021.3.16.5719
 C:\WINDOWS\System32\USER32.dll:USER32.dll (00007FFED5F70000), size: 1699840 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.4474
 C:\WINDOWS\System32\win32u.dll:win32u.dll (00007FFED4580000), size: 139264 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.4597
 C:\WINDOWS\System32\GDI32.dll:GDI32.dll (00007FFED5350000), size: 176128 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.4474
@@ -913,7 +913,7 @@ C:\WINDOWS\SYSTEM32\OPENGL32.dll:OPENGL32.dll (00007FFE3DE20000), size: 1212416 
 C:\WINDOWS\System32\CRYPT32.dll:CRYPT32.dll (00007FFED4690000), size: 1433600 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.4597
 C:\WINDOWS\SYSTEM32\WINMM.dll:WINMM.dll (00007FFEC8F70000), size: 159744 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.3636
 C:\WINDOWS\System32\WS2_32.dll:WS2_32.dll (00007FFED6730000), size: 438272 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.3636
-C:\Users\overlap\BSManager\BSInstances\1.34.2\WINHTTP.dll:WINHTTP.dll (00007FFED0A70000), size: 49152 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 2.7.1.0
+C:\Users\[REDACTED]\BSManager\BSInstances\1.34.2\WINHTTP.dll:WINHTTP.dll (00007FFED0A70000), size: 49152 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 2.7.1.0
 C:\WINDOWS\SYSTEM32\HID.DLL:HID.DLL (00007FFED2DC0000), size: 53248 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.3636
 C:\WINDOWS\SYSTEM32\GLU32.dll:GLU32.dll (00007FFE3DDF0000), size: 180224 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.3636
 C:\WINDOWS\SYSTEM32\dwmapi.dll:dwmapi.dll (00007FFED2130000), size: 192512 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.4355
@@ -925,7 +925,7 @@ C:\WINDOWS\system32\uxtheme.dll:uxtheme.dll (00007FFED1EA0000), size: 647168 (re
 C:\WINDOWS\SYSTEM32\windows.storage.dll:windows.storage.dll (00007FFED2620000), size: 7983104 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.4597
 C:\WINDOWS\SYSTEM32\Wldp.dll:Wldp.dll (00007FFED3FA0000), size: 188416 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.4597
 C:\WINDOWS\SYSTEM32\profapi.dll:profapi.dll (00007FFED44B0000), size: 147456 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.4355
-C:\Users\overlap\BSManager\BSInstances\1.34.2\MonoBleedingEdge\EmbedRuntime\mono-2.0-bdwgc.dll:mono-2.0-bdwgc.dll (00007FFE86960000), size: 10686464 (result: 0), SymType: '-deferred-', PDB: ''
+C:\Users\[REDACTED]\BSManager\BSInstances\1.34.2\MonoBleedingEdge\EmbedRuntime\mono-2.0-bdwgc.dll:mono-2.0-bdwgc.dll (00007FFE86960000), size: 10686464 (result: 0), SymType: '-deferred-', PDB: ''
 C:\WINDOWS\SYSTEM32\amsi.DLL:amsi.DLL (00007FFEC7880000), size: 126976 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.4355
 C:\WINDOWS\SYSTEM32\USERENV.dll:USERENV.dll (00007FFED4460000), size: 188416 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.4355
 C:\ProgramData\Microsoft\Windows Defender\Platform\4.18.24050.7-0\MpOav.dll:MpOav.dll (00007FFEC77F0000), size: 528384 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 4.18.24050.7
@@ -935,13 +935,13 @@ C:\WINDOWS\System32\MSASN1.dll:MSASN1.dll (00007FFED4130000), size: 73728 (resul
 C:\WINDOWS\SYSTEM32\gpapi.dll:gpapi.dll (00007FFED2DD0000), size: 143360 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.4355
 C:\WINDOWS\SYSTEM32\ntmarta.dll:ntmarta.dll (00007FFED36D0000), size: 208896 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.3636
 C:\WINDOWS\SYSTEM32\iphlpapi.dll:iphlpapi.dll (00007FFED3990000), size: 241664 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.3636
-C:\Users\overlap\BSManager\BSInstances\1.34.2\Beat Saber_Data\Plugins\x86_64\AudioPluginMicrosoftSpatializerCrossPlatform.dll:AudioPluginMicrosoftSpatializerCrossPlatform.dll (00007FFECAD60000), size: 126976 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 2.0.0.0
+C:\Users\[REDACTED]\BSManager\BSInstances\1.34.2\Beat Saber_Data\Plugins\x86_64\AudioPluginMicrosoftSpatializerCrossPlatform.dll:AudioPluginMicrosoftSpatializerCrossPlatform.dll (00007FFECAD60000), size: 126976 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 2.0.0.0
 C:\WINDOWS\SYSTEM32\VCRUNTIME140.dll:VCRUNTIME140.dll (00007FFEC1510000), size: 118784 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 14.38.33135.0
 C:\WINDOWS\SYSTEM32\VCRUNTIME140_1.dll:VCRUNTIME140_1.dll (00007FFEC1380000), size: 49152 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 14.38.33135.0
 C:\WINDOWS\SYSTEM32\MSVCP140.dll:MSVCP140.dll (00007FFEC1460000), size: 577536 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 14.38.33135.0
-C:\Users\overlap\BSManager\BSInstances\1.34.2\Beat Saber_Data\Plugins\x86_64\HrtfDsp.dll:HrtfDsp.dll (00007FFE84C30000), size: 11018240 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 3.0.418.0
+C:\Users\[REDACTED]\BSManager\BSInstances\1.34.2\Beat Saber_Data\Plugins\x86_64\HrtfDsp.dll:HrtfDsp.dll (00007FFE84C30000), size: 11018240 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 3.0.418.0
 C:\WINDOWS\System32\MSCTF.dll:MSCTF.dll (00007FFED5390000), size: 1130496 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.4597
-C:\Users\overlap\BSManager\BSInstances\1.34.2\Beat Saber_Data\Plugins\x86_64\UnityOpenXR.dll:UnityOpenXR.dll (00007FFEAA1D0000), size: 761856 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 1.9.1.0
+C:\Users\[REDACTED]\BSManager\BSInstances\1.34.2\Beat Saber_Data\Plugins\x86_64\UnityOpenXR.dll:UnityOpenXR.dll (00007FFEAA1D0000), size: 761856 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 1.9.1.0
 C:\WINDOWS\SYSTEM32\d3d11.dll:d3d11.dll (00007FFECD2A0000), size: 2502656 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.4355
 C:\WINDOWS\SYSTEM32\dxgi.dll:dxgi.dll (00007FFED2E00000), size: 1003520 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.4597
 C:\WINDOWS\SYSTEM32\cryptnet.dll:cryptnet.dll (00007FFECC090000), size: 200704 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.3636
@@ -977,10 +977,10 @@ C:\WINDOWS\SYSTEM32\xinput1_3.dll:xinput1_3.dll (0000000000400000), size: 122880
 C:\WINDOWS\SYSTEM32\dcomp.dll:dcomp.dll (00007FFECE2D0000), size: 1982464 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.4597
 C:\WINDOWS\SYSTEM32\textinputframework.dll:textinputframework.dll (00007FFEC1B10000), size: 1019904 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.4597
 C:\WINDOWS\system32\Oleacc.dll:Oleacc.dll (00007FFEBB6C0000), size: 417792 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 7.2.19041.3636
-C:\Users\overlap\BSManager\BSInstances\1.34.2\Libs\Native\discord_game_sdk.DLL:discord_game_sdk.DLL (00007FFE933E0000), size: 3493888 (result: 0), SymType: '-deferred-', PDB: ''
+C:\Users\[REDACTED]\BSManager\BSInstances\1.34.2\Libs\Native\discord_game_sdk.DLL:discord_game_sdk.DLL (00007FFE933E0000), size: 3493888 (result: 0), SymType: '-deferred-', PDB: ''
 C:\WINDOWS\SYSTEM32\ktmw32.dll:ktmw32.dll (00007FFEC74E0000), size: 45056 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.3636
 C:\WINDOWS\system32\mswsock.dll:mswsock.dll (00007FFED3D00000), size: 434176 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.3636
-C:\Users\overlap\BSManager\BSInstances\1.34.2\MonoBleedingEdge\EmbedRuntime\MonoPosixHelper.dll:MonoPosixHelper.dll (00007FFEA9FF0000), size: 626688 (result: 0), SymType: '-deferred-', PDB: ''
+C:\Users\[REDACTED]\BSManager\BSInstances\1.34.2\MonoBleedingEdge\EmbedRuntime\MonoPosixHelper.dll:MonoPosixHelper.dll (00007FFEA9FF0000), size: 626688 (result: 0), SymType: '-deferred-', PDB: ''
 C:\WINDOWS\SYSTEM32\DNSAPI.dll:DNSAPI.dll (00007FFED39D0000), size: 827392 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.4474
 C:\WINDOWS\System32\NSI.dll:NSI.dll (00007FFED6690000), size: 32768 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.3636
 C:\WINDOWS\SYSTEM32\dhcpcsvc6.DLL:dhcpcsvc6.DLL (00007FFECF6C0000), size: 94208 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.3636
@@ -996,9 +996,9 @@ C:\Windows\System32\rasadhlp.dll:rasadhlp.dll (00007FFECC660000), size: 40960 (r
 C:\WINDOWS\System32\fwpuclnt.dll:fwpuclnt.dll (00007FFECA310000), size: 524288 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.4123
 C:\WINDOWS\WinSxS\amd64_microsoft.windows.gdiplus_6595b64144ccf1df_1.1.19041.4597_none_91a78020cc854124\gdiplus.DLL:gdiplus.DLL (00007FFEC3AB0000), size: 1724416 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.4597
 C:\WINDOWS\SYSTEM32\WindowsCodecs.dll:WindowsCodecs.dll (00007FFED1C50000), size: 1785856 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.4355
-C:\Users\overlap\BSManager\BSInstances\1.34.2\Libs\Natives\libwebp.DLL:libwebp.DLL (00007FFEA8000000), size: 520192 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 1.0.2.0
-C:\Users\overlap\BSManager\BSInstances\1.34.2\Libs\Natives\libwebpdemux.DLL:libwebpdemux.DLL (00007FFED0440000), size: 40960 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 1.0.2.0
-C:\Users\overlap\BSManager\BSInstances\1.34.2\Beat Saber_Data\Plugins\x86_64\steam_api64.dll:steam_api64.dll (00007FFEAAE30000), size: 315392 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 8.2.21.95
+C:\Users\[REDACTED]\BSManager\BSInstances\1.34.2\Libs\Natives\libwebp.DLL:libwebp.DLL (00007FFEA8000000), size: 520192 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 1.0.2.0
+C:\Users\[REDACTED]\BSManager\BSInstances\1.34.2\Libs\Natives\libwebpdemux.DLL:libwebpdemux.DLL (00007FFED0440000), size: 40960 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 1.0.2.0
+C:\Users\[REDACTED]\BSManager\BSInstances\1.34.2\Beat Saber_Data\Plugins\x86_64\steam_api64.dll:steam_api64.dll (00007FFEAAE30000), size: 315392 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 8.2.21.95
 C:\Program Files (x86)\Steam\steamclient64.dll:steamclient64.dll (00007FFE5FD40000), size: 24170496 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 8.98.79.13
 C:\WINDOWS\System32\PSAPI.DLL:PSAPI.DLL (00007FFED5340000), size: 32768 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.3636
 C:\WINDOWS\SYSTEM32\Secur32.dll:Secur32.dll (00007FFEC3380000), size: 49152 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.3636
@@ -1007,18 +1007,18 @@ C:\Program Files (x86)\Steam\tier0_s64.dll:tier0_s64.dll (00007FFE91200000), siz
 C:\WINDOWS\SYSTEM32\SSPICLI.DLL:SSPICLI.DLL (00007FFED4420000), size: 204800 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.4239
 C:\Program Files (x86)\Steam\gameoverlayrenderer64.dll:gameoverlayrenderer64.dll (00007FFE90AD0000), size: 1646592 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 8.98.79.13
 C:\WINDOWS\SYSTEM32\icmp.dll:icmp.dll (000001EC9C2C0000), size: 12288 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.1
-C:\Users\overlap\BSManager\BSInstances\1.34.2\Beat Saber_Data\Plugins\x86_64\LIV_Bridge.dll:LIV_Bridge.dll (00007FFEA77B0000), size: 512000 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 0.1.5.7
+C:\Users\[REDACTED]\BSManager\BSInstances\1.34.2\Beat Saber_Data\Plugins\x86_64\LIV_Bridge.dll:LIV_Bridge.dll (00007FFEA77B0000), size: 512000 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 0.1.5.7
 C:\WINDOWS\SYSTEM32\dbghelp.dll:dbghelp.dll (00007FFECB930000), size: 1982464 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.3636
 
 ========== OUTPUTTING STACK TRACE ==================
 
-SymInit: Symbol-SearchPath: '.;C:\Users\overlap\BSManager\BSInstances\1.34.2;C:\Users\overlap\BSManager\BSInstances\1.34.2;C:\WINDOWS;C:\WINDOWS\system32;', symOptions: 534, UserName: 'overlap'
+SymInit: Symbol-SearchPath: '.;C:\Users\[REDACTED]\BSManager\BSInstances\1.34.2;C:\Users\[REDACTED]\BSManager\BSInstances\1.34.2;C:\WINDOWS;C:\WINDOWS\system32;', symOptions: 534, UserName: 'overlap'
 OS-Version: 10.0.0
-C:\Users\overlap\BSManager\BSInstances\1.34.2\Beat Saber.exe:Beat Saber.exe (00007FF7307C0000), size: 675840 (result: 0), SymType: '-exported-', PDB: 'C:\Users\overlap\BSManager\BSInstances\1.34.2\Beat Saber.exe', fileVersion: 2021.3.16.5719
+C:\Users\[REDACTED]\BSManager\BSInstances\1.34.2\Beat Saber.exe:Beat Saber.exe (00007FF7307C0000), size: 675840 (result: 0), SymType: '-exported-', PDB: 'C:\Users\[REDACTED]\BSManager\BSInstances\1.34.2\Beat Saber.exe', fileVersion: 2021.3.16.5719
 C:\WINDOWS\SYSTEM32\ntdll.dll:ntdll.dll (00007FFED6ED0000), size: 2064384 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\ntdll.dll', fileVersion: 10.0.19041.4522
 C:\WINDOWS\System32\KERNEL32.DLL:KERNEL32.DLL (00007FFED6DC0000), size: 790528 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\System32\KERNEL32.DLL', fileVersion: 10.0.19041.4597
 C:\WINDOWS\System32\KERNELBASE.dll:KERNELBASE.dll (00007FFED4840000), size: 3104768 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\System32\KERNELBASE.dll', fileVersion: 10.0.19041.4597
-C:\Users\overlap\BSManager\BSInstances\1.34.2\UnityPlayer.dll:UnityPlayer.dll (00007FFE74070000), size: 30224384 (result: 0), SymType: '-exported-', PDB: 'C:\Users\overlap\BSManager\BSInstances\1.34.2\UnityPlayer.dll', fileVersion: 2021.3.16.5719
+C:\Users\[REDACTED]\BSManager\BSInstances\1.34.2\UnityPlayer.dll:UnityPlayer.dll (00007FFE74070000), size: 30224384 (result: 0), SymType: '-exported-', PDB: 'C:\Users\[REDACTED]\BSManager\BSInstances\1.34.2\UnityPlayer.dll', fileVersion: 2021.3.16.5719
 C:\WINDOWS\System32\USER32.dll:USER32.dll (00007FFED5F70000), size: 1699840 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\System32\USER32.dll', fileVersion: 10.0.19041.4474
 C:\WINDOWS\System32\win32u.dll:win32u.dll (00007FFED4580000), size: 139264 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\System32\win32u.dll', fileVersion: 10.0.19041.4597
 C:\WINDOWS\System32\GDI32.dll:GDI32.dll (00007FFED5350000), size: 176128 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\System32\GDI32.dll', fileVersion: 10.0.19041.4474
@@ -1043,7 +1043,7 @@ C:\WINDOWS\SYSTEM32\OPENGL32.dll:OPENGL32.dll (00007FFE3DE20000), size: 1212416 
 C:\WINDOWS\System32\CRYPT32.dll:CRYPT32.dll (00007FFED4690000), size: 1433600 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\System32\CRYPT32.dll', fileVersion: 10.0.19041.4597
 C:\WINDOWS\SYSTEM32\WINMM.dll:WINMM.dll (00007FFEC8F70000), size: 159744 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\WINMM.dll', fileVersion: 10.0.19041.3636
 C:\WINDOWS\System32\WS2_32.dll:WS2_32.dll (00007FFED6730000), size: 438272 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\System32\WS2_32.dll', fileVersion: 10.0.19041.3636
-C:\Users\overlap\BSManager\BSInstances\1.34.2\WINHTTP.dll:WINHTTP.dll (00007FFED0A70000), size: 49152 (result: 0), SymType: '-exported-', PDB: 'C:\Users\overlap\BSManager\BSInstances\1.34.2\WINHTTP.dll', fileVersion: 2.7.1.0
+C:\Users\[REDACTED]\BSManager\BSInstances\1.34.2\WINHTTP.dll:WINHTTP.dll (00007FFED0A70000), size: 49152 (result: 0), SymType: '-exported-', PDB: 'C:\Users\[REDACTED]\BSManager\BSInstances\1.34.2\WINHTTP.dll', fileVersion: 2.7.1.0
 C:\WINDOWS\SYSTEM32\HID.DLL:HID.DLL (00007FFED2DC0000), size: 53248 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\HID.DLL', fileVersion: 10.0.19041.3636
 C:\WINDOWS\SYSTEM32\GLU32.dll:GLU32.dll (00007FFE3DDF0000), size: 180224 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\GLU32.dll', fileVersion: 10.0.19041.3636
 C:\WINDOWS\SYSTEM32\dwmapi.dll:dwmapi.dll (00007FFED2130000), size: 192512 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\dwmapi.dll', fileVersion: 10.0.19041.4355
@@ -1055,7 +1055,7 @@ C:\WINDOWS\system32\uxtheme.dll:uxtheme.dll (00007FFED1EA0000), size: 647168 (re
 C:\WINDOWS\SYSTEM32\windows.storage.dll:windows.storage.dll (00007FFED2620000), size: 7983104 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\windows.storage.dll', fileVersion: 10.0.19041.4597
 C:\WINDOWS\SYSTEM32\Wldp.dll:Wldp.dll (00007FFED3FA0000), size: 188416 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\Wldp.dll', fileVersion: 10.0.19041.4597
 C:\WINDOWS\SYSTEM32\profapi.dll:profapi.dll (00007FFED44B0000), size: 147456 (result: 0), SymType: '-nosymbols-', PDB: 'C:\WINDOWS\SYSTEM32\profapi.dll', fileVersion: 10.0.19041.4355
-C:\Users\overlap\BSManager\BSInstances\1.34.2\MonoBleedingEdge\EmbedRuntime\mono-2.0-bdwgc.dll:mono-2.0-bdwgc.dll (00007FFE86960000), size: 10686464 (result: 0), SymType: '-exported-', PDB: 'C:\Users\overlap\BSManager\BSInstances\1.34.2\MonoBleedingEdge\EmbedRuntime\mono-2.0-bdwgc.dll'
+C:\Users\[REDACTED]\BSManager\BSInstances\1.34.2\MonoBleedingEdge\EmbedRuntime\mono-2.0-bdwgc.dll:mono-2.0-bdwgc.dll (00007FFE86960000), size: 10686464 (result: 0), SymType: '-exported-', PDB: 'C:\Users\[REDACTED]\BSManager\BSInstances\1.34.2\MonoBleedingEdge\EmbedRuntime\mono-2.0-bdwgc.dll'
 C:\WINDOWS\SYSTEM32\amsi.DLL:amsi.DLL (00007FFEC7880000), size: 126976 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\amsi.DLL', fileVersion: 10.0.19041.4355
 C:\WINDOWS\SYSTEM32\USERENV.dll:USERENV.dll (00007FFED4460000), size: 188416 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\USERENV.dll', fileVersion: 10.0.19041.4355
 C:\ProgramData\Microsoft\Windows Defender\Platform\4.18.24050.7-0\MpOav.dll:MpOav.dll (00007FFEC77F0000), size: 528384 (result: 0), SymType: '-exported-', PDB: 'C:\ProgramData\Microsoft\Windows Defender\Platform\4.18.24050.7-0\MpOav.dll', fileVersion: 4.18.24050.7
@@ -1065,13 +1065,13 @@ C:\WINDOWS\System32\MSASN1.dll:MSASN1.dll (00007FFED4130000), size: 73728 (resul
 C:\WINDOWS\SYSTEM32\gpapi.dll:gpapi.dll (00007FFED2DD0000), size: 143360 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\gpapi.dll', fileVersion: 10.0.19041.4355
 C:\WINDOWS\SYSTEM32\ntmarta.dll:ntmarta.dll (00007FFED36D0000), size: 208896 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\ntmarta.dll', fileVersion: 10.0.19041.3636
 C:\WINDOWS\SYSTEM32\iphlpapi.dll:iphlpapi.dll (00007FFED3990000), size: 241664 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\iphlpapi.dll', fileVersion: 10.0.19041.3636
-C:\Users\overlap\BSManager\BSInstances\1.34.2\Beat Saber_Data\Plugins\x86_64\AudioPluginMicrosoftSpatializerCrossPlatform.dll:AudioPluginMicrosoftSpatializerCrossPlatform.dll (00007FFECAD60000), size: 126976 (result: 0), SymType: '-exported-', PDB: 'C:\Users\overlap\BSManager\BSInstances\1.34.2\Beat Saber_Data\Plugins\x86_64\AudioPluginMicrosoftSpatializerCrossPlatform.dll', fileVersion: 2.0.0.0
+C:\Users\[REDACTED]\BSManager\BSInstances\1.34.2\Beat Saber_Data\Plugins\x86_64\AudioPluginMicrosoftSpatializerCrossPlatform.dll:AudioPluginMicrosoftSpatializerCrossPlatform.dll (00007FFECAD60000), size: 126976 (result: 0), SymType: '-exported-', PDB: 'C:\Users\[REDACTED]\BSManager\BSInstances\1.34.2\Beat Saber_Data\Plugins\x86_64\AudioPluginMicrosoftSpatializerCrossPlatform.dll', fileVersion: 2.0.0.0
 C:\WINDOWS\SYSTEM32\VCRUNTIME140.dll:VCRUNTIME140.dll (00007FFEC1510000), size: 118784 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\VCRUNTIME140.dll', fileVersion: 14.38.33135.0
 C:\WINDOWS\SYSTEM32\VCRUNTIME140_1.dll:VCRUNTIME140_1.dll (00007FFEC1380000), size: 49152 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\VCRUNTIME140_1.dll', fileVersion: 14.38.33135.0
 C:\WINDOWS\SYSTEM32\MSVCP140.dll:MSVCP140.dll (00007FFEC1460000), size: 577536 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\MSVCP140.dll', fileVersion: 14.38.33135.0
-C:\Users\overlap\BSManager\BSInstances\1.34.2\Beat Saber_Data\Plugins\x86_64\HrtfDsp.dll:HrtfDsp.dll (00007FFE84C30000), size: 11018240 (result: 0), SymType: '-exported-', PDB: 'C:\Users\overlap\BSManager\BSInstances\1.34.2\Beat Saber_Data\Plugins\x86_64\HrtfDsp.dll', fileVersion: 3.0.418.0
+C:\Users\[REDACTED]\BSManager\BSInstances\1.34.2\Beat Saber_Data\Plugins\x86_64\HrtfDsp.dll:HrtfDsp.dll (00007FFE84C30000), size: 11018240 (result: 0), SymType: '-exported-', PDB: 'C:\Users\[REDACTED]\BSManager\BSInstances\1.34.2\Beat Saber_Data\Plugins\x86_64\HrtfDsp.dll', fileVersion: 3.0.418.0
 C:\WINDOWS\System32\MSCTF.dll:MSCTF.dll (00007FFED5390000), size: 1130496 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\System32\MSCTF.dll', fileVersion: 10.0.19041.4597
-C:\Users\overlap\BSManager\BSInstances\1.34.2\Beat Saber_Data\Plugins\x86_64\UnityOpenXR.dll:UnityOpenXR.dll (00007FFEAA1D0000), size: 761856 (result: 0), SymType: '-exported-', PDB: 'C:\Users\overlap\BSManager\BSInstances\1.34.2\Beat Saber_Data\Plugins\x86_64\UnityOpenXR.dll', fileVersion: 1.9.1.0
+C:\Users\[REDACTED]\BSManager\BSInstances\1.34.2\Beat Saber_Data\Plugins\x86_64\UnityOpenXR.dll:UnityOpenXR.dll (00007FFEAA1D0000), size: 761856 (result: 0), SymType: '-exported-', PDB: 'C:\Users\[REDACTED]\BSManager\BSInstances\1.34.2\Beat Saber_Data\Plugins\x86_64\UnityOpenXR.dll', fileVersion: 1.9.1.0
 C:\WINDOWS\SYSTEM32\d3d11.dll:d3d11.dll (00007FFECD2A0000), size: 2502656 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\d3d11.dll', fileVersion: 10.0.19041.4355
 C:\WINDOWS\SYSTEM32\dxgi.dll:dxgi.dll (00007FFED2E00000), size: 1003520 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\dxgi.dll', fileVersion: 10.0.19041.4597
 C:\WINDOWS\SYSTEM32\cryptnet.dll:cryptnet.dll (00007FFECC090000), size: 200704 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\cryptnet.dll', fileVersion: 10.0.19041.3636
@@ -1107,10 +1107,10 @@ C:\WINDOWS\SYSTEM32\xinput1_3.dll:xinput1_3.dll (0000000000400000), size: 122880
 C:\WINDOWS\SYSTEM32\dcomp.dll:dcomp.dll (00007FFECE2D0000), size: 1982464 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\dcomp.dll', fileVersion: 10.0.19041.4597
 C:\WINDOWS\SYSTEM32\textinputframework.dll:textinputframework.dll (00007FFEC1B10000), size: 1019904 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\textinputframework.dll', fileVersion: 10.0.19041.4597
 C:\WINDOWS\system32\Oleacc.dll:Oleacc.dll (00007FFEBB6C0000), size: 417792 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\system32\Oleacc.dll', fileVersion: 7.2.19041.3636
-C:\Users\overlap\BSManager\BSInstances\1.34.2\Libs\Native\discord_game_sdk.DLL:discord_game_sdk.DLL (00007FFE933E0000), size: 3493888 (result: 0), SymType: '-exported-', PDB: 'C:\Users\overlap\BSManager\BSInstances\1.34.2\Libs\Native\discord_game_sdk.DLL'
+C:\Users\[REDACTED]\BSManager\BSInstances\1.34.2\Libs\Native\discord_game_sdk.DLL:discord_game_sdk.DLL (00007FFE933E0000), size: 3493888 (result: 0), SymType: '-exported-', PDB: 'C:\Users\[REDACTED]\BSManager\BSInstances\1.34.2\Libs\Native\discord_game_sdk.DLL'
 C:\WINDOWS\SYSTEM32\ktmw32.dll:ktmw32.dll (00007FFEC74E0000), size: 45056 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\ktmw32.dll', fileVersion: 10.0.19041.3636
 C:\WINDOWS\system32\mswsock.dll:mswsock.dll (00007FFED3D00000), size: 434176 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\system32\mswsock.dll', fileVersion: 10.0.19041.3636
-C:\Users\overlap\BSManager\BSInstances\1.34.2\MonoBleedingEdge\EmbedRuntime\MonoPosixHelper.dll:MonoPosixHelper.dll (00007FFEA9FF0000), size: 626688 (result: 0), SymType: '-exported-', PDB: 'C:\Users\overlap\BSManager\BSInstances\1.34.2\MonoBleedingEdge\EmbedRuntime\MonoPosixHelper.dll'
+C:\Users\[REDACTED]\BSManager\BSInstances\1.34.2\MonoBleedingEdge\EmbedRuntime\MonoPosixHelper.dll:MonoPosixHelper.dll (00007FFEA9FF0000), size: 626688 (result: 0), SymType: '-exported-', PDB: 'C:\Users\[REDACTED]\BSManager\BSInstances\1.34.2\MonoBleedingEdge\EmbedRuntime\MonoPosixHelper.dll'
 C:\WINDOWS\SYSTEM32\DNSAPI.dll:DNSAPI.dll (00007FFED39D0000), size: 827392 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\DNSAPI.dll', fileVersion: 10.0.19041.4474
 C:\WINDOWS\System32\NSI.dll:NSI.dll (00007FFED6690000), size: 32768 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\System32\NSI.dll', fileVersion: 10.0.19041.3636
 C:\WINDOWS\SYSTEM32\dhcpcsvc6.DLL:dhcpcsvc6.DLL (00007FFECF6C0000), size: 94208 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\dhcpcsvc6.DLL', fileVersion: 10.0.19041.3636
@@ -1126,9 +1126,9 @@ C:\Windows\System32\rasadhlp.dll:rasadhlp.dll (00007FFECC660000), size: 40960 (r
 C:\WINDOWS\System32\fwpuclnt.dll:fwpuclnt.dll (00007FFECA310000), size: 524288 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\System32\fwpuclnt.dll', fileVersion: 10.0.19041.4123
 C:\WINDOWS\WinSxS\amd64_microsoft.windows.gdiplus_6595b64144ccf1df_1.1.19041.4597_none_91a78020cc854124\gdiplus.DLL:gdiplus.DLL (00007FFEC3AB0000), size: 1724416 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\WinSxS\amd64_microsoft.windows.gdiplus_6595b64144ccf1df_1.1.19041.4597_none_91a78020cc854124\gdiplus.DLL', fileVersion: 10.0.19041.4597
 C:\WINDOWS\SYSTEM32\WindowsCodecs.dll:WindowsCodecs.dll (00007FFED1C50000), size: 1785856 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\WindowsCodecs.dll', fileVersion: 10.0.19041.4355
-C:\Users\overlap\BSManager\BSInstances\1.34.2\Libs\Natives\libwebp.DLL:libwebp.DLL (00007FFEA8000000), size: 520192 (result: 0), SymType: '-exported-', PDB: 'C:\Users\overlap\BSManager\BSInstances\1.34.2\Libs\Natives\libwebp.DLL', fileVersion: 1.0.2.0
-C:\Users\overlap\BSManager\BSInstances\1.34.2\Libs\Natives\libwebpdemux.DLL:libwebpdemux.DLL (00007FFED0440000), size: 40960 (result: 0), SymType: '-exported-', PDB: 'C:\Users\overlap\BSManager\BSInstances\1.34.2\Libs\Natives\libwebpdemux.DLL', fileVersion: 1.0.2.0
-C:\Users\overlap\BSManager\BSInstances\1.34.2\Beat Saber_Data\Plugins\x86_64\steam_api64.dll:steam_api64.dll (00007FFEAAE30000), size: 315392 (result: 0), SymType: '-exported-', PDB: 'C:\Users\overlap\BSManager\BSInstances\1.34.2\Beat Saber_Data\Plugins\x86_64\steam_api64.dll', fileVersion: 8.2.21.95
+C:\Users\[REDACTED]\BSManager\BSInstances\1.34.2\Libs\Natives\libwebp.DLL:libwebp.DLL (00007FFEA8000000), size: 520192 (result: 0), SymType: '-exported-', PDB: 'C:\Users\[REDACTED]\BSManager\BSInstances\1.34.2\Libs\Natives\libwebp.DLL', fileVersion: 1.0.2.0
+C:\Users\[REDACTED]\BSManager\BSInstances\1.34.2\Libs\Natives\libwebpdemux.DLL:libwebpdemux.DLL (00007FFED0440000), size: 40960 (result: 0), SymType: '-exported-', PDB: 'C:\Users\[REDACTED]\BSManager\BSInstances\1.34.2\Libs\Natives\libwebpdemux.DLL', fileVersion: 1.0.2.0
+C:\Users\[REDACTED]\BSManager\BSInstances\1.34.2\Beat Saber_Data\Plugins\x86_64\steam_api64.dll:steam_api64.dll (00007FFEAAE30000), size: 315392 (result: 0), SymType: '-exported-', PDB: 'C:\Users\[REDACTED]\BSManager\BSInstances\1.34.2\Beat Saber_Data\Plugins\x86_64\steam_api64.dll', fileVersion: 8.2.21.95
 C:\Program Files (x86)\Steam\steamclient64.dll:steamclient64.dll (00007FFE5FD40000), size: 24170496 (result: 0), SymType: '-exported-', PDB: 'C:\Program Files (x86)\Steam\steamclient64.dll', fileVersion: 8.98.79.13
 C:\WINDOWS\System32\PSAPI.DLL:PSAPI.DLL (00007FFED5340000), size: 32768 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\System32\PSAPI.DLL', fileVersion: 10.0.19041.3636
 C:\WINDOWS\SYSTEM32\Secur32.dll:Secur32.dll (00007FFEC3380000), size: 49152 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\Secur32.dll', fileVersion: 10.0.19041.3636
@@ -1137,7 +1137,7 @@ C:\Program Files (x86)\Steam\tier0_s64.dll:tier0_s64.dll (00007FFE91200000), siz
 C:\WINDOWS\SYSTEM32\SSPICLI.DLL:SSPICLI.DLL (00007FFED4420000), size: 204800 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\SSPICLI.DLL', fileVersion: 10.0.19041.4239
 C:\Program Files (x86)\Steam\gameoverlayrenderer64.dll:gameoverlayrenderer64.dll (00007FFE90AD0000), size: 1646592 (result: 0), SymType: '-exported-', PDB: 'C:\Program Files (x86)\Steam\gameoverlayrenderer64.dll', fileVersion: 8.98.79.13
 C:\WINDOWS\SYSTEM32\icmp.dll:icmp.dll (000001EC9C2C0000), size: 12288 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\icmp.dll', fileVersion: 10.0.19041.1
-C:\Users\overlap\BSManager\BSInstances\1.34.2\Beat Saber_Data\Plugins\x86_64\LIV_Bridge.dll:LIV_Bridge.dll (00007FFEA77B0000), size: 512000 (result: 0), SymType: '-exported-', PDB: 'C:\Users\overlap\BSManager\BSInstances\1.34.2\Beat Saber_Data\Plugins\x86_64\LIV_Bridge.dll', fileVersion: 0.1.5.7
+C:\Users\[REDACTED]\BSManager\BSInstances\1.34.2\Beat Saber_Data\Plugins\x86_64\LIV_Bridge.dll:LIV_Bridge.dll (00007FFEA77B0000), size: 512000 (result: 0), SymType: '-exported-', PDB: 'C:\Users\[REDACTED]\BSManager\BSInstances\1.34.2\Beat Saber_Data\Plugins\x86_64\LIV_Bridge.dll', fileVersion: 0.1.5.7
 C:\WINDOWS\SYSTEM32\dbghelp.dll:dbghelp.dll (00007FFECB930000), size: 1982464 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\dbghelp.dll', fileVersion: 10.0.19041.3636
   ERROR: SymGetSymFromAddr64, GetLastError: 'Attempt to access invalid address.' (Address: 00007FFE742F9FD0)
 0x00007FFE742F9FD0 (UnityPlayer) (function-name not available)
@@ -1172,7 +1172,7 @@ C:\WINDOWS\SYSTEM32\dbghelp.dll:dbghelp.dll (00007FFECB930000), size: 1982464 (r
 ========== END OF STACKTRACE ===========
 
 A crash has been intercepted by the crash handler. For call stack and other details, see the latest crash report generated in:
- * C:/Users/overlap/AppData/Local/Temp/Hyperbolic Magnetism/Beat Saber/Crashes
+ * C:/Users/[REDACTED]/AppData/Local/Temp/Hyperbolic Magnetism/Beat Saber/Crashes
 ```
 </details>
 
@@ -1831,7 +1831,7 @@ C:\WINDOWS\SYSTEM32\dbghelp.dll:dbghelp.dll (00007FFB1C850000), size: 2301952 (r
 ========== END OF STACKTRACE ===========
 
 A crash has been intercepted by the crash handler. For call stack and other details, see the latest crash report generated in:
- * C:/Users/TANSON~1/AppData/Local/Temp/Hyperbolic Magnetism/Beat Saber/Crashes
+ * C:/Users/[REDACTED]~1/AppData/Local/Temp/Hyperbolic Magnetism/Beat Saber/Crashes
 ```
 </details>
 
@@ -2515,7 +2515,7 @@ C:\WINDOWS\SYSTEM32\dbghelp.dll:dbghelp.dll (00007FFAD05D0000), size: 2306048 (r
 ========== END OF STACKTRACE ===========
 
 A crash has been intercepted by the crash handler. For call stack and other details, see the latest crash report generated in:
- * C:/Users/texan/AppData/Local/Temp/Hyperbolic Magnetism/Beat Saber/Crashes
+ * C:/Users/[REDACTED]/AppData/Local/Temp/Hyperbolic Magnetism/Beat Saber/Crashes
 ```
 </details>
 
@@ -2675,7 +2675,7 @@ C:\Windows\system32\wbem\fastprox.dll:fastprox.dll (00007FFCD76B0000), size: 109
 C:\Windows\System32\MMDevApi.dll:MMDevApi.dll (00007FFCDC8E0000), size: 544768 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.4355
 C:\Windows\SYSTEM32\AUDIOSES.DLL:AUDIOSES.DLL (00007FFCDC990000), size: 1576960 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.4355
 C:\Windows\SYSTEM32\resourcepolicyclient.dll:resourcepolicyclient.dll (00007FFCDD940000), size: 81920 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.4355
-C:\Users\Gebruiker\AppData\Local\Medal\recorder-3.830.0\Host\medal-hook64.dll:medal-hook64.dll (00007FFC57870000), size: 1331200 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 1.8.0.0
+C:\Users\[REDACTED]\AppData\Local\Medal\recorder-3.830.0\Host\medal-hook64.dll:medal-hook64.dll (00007FFC57870000), size: 1331200 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 1.8.0.0
 C:\Windows\SYSTEM32\d3d12.dll:d3d12.dll (00007FFCAB6F0000), size: 151552 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.4355
 C:\Windows\SYSTEM32\xinput1_3.dll:xinput1_3.dll (0000000000400000), size: 122880 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 9.18.944.0
 C:\Windows\SYSTEM32\dcomp.dll:dcomp.dll (00007FFCDB210000), size: 1986560 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.4355
@@ -2789,7 +2789,7 @@ C:\Windows\System32\WindowManagementAPI.dll:WindowManagementAPI.dll (00007FFCD8B
 ========== END OF STACKTRACE ===========
 
 A crash has been intercepted by the crash handler. For call stack and other details, see the latest crash report generated in:
- * C:/Users/GEBRUI~1/AppData/Local/Temp/Hyperbolic Magnetism/Beat Saber/Crashes
+ * C:/Users/[REDACTED]~1/AppData/Local/Temp/Hyperbolic Magnetism/Beat Saber/Crashes
 ```
 </details>
 
@@ -2823,11 +2823,11 @@ Solution: This happens when a newer version of BSIPA is installed with mods that
 <summary>Player.log</summary>
 
 ```
-Mono path[0] = 'C:/Users/Laure/OneDrive/Documents/BSManager/BSInstances/1.37.0/Beat Saber_Data/Managed'
-Mono config path = 'C:/Users/Laure/OneDrive/Documents/BSManager/BSInstances/1.37.0/MonoBleedingEdge/etc'
-Fallback handler could not load library C:/Users/Laure/OneDrive/Documents/BSManager/BSInstances/1.37.0/Beat Saber_Data/MonoBleedingEdge/data-0000019BB5194CB0.dll
+Mono path[0] = 'C:/Users/[REDACTED]/OneDrive/Documents/BSManager/BSInstances/1.37.0/Beat Saber_Data/Managed'
+Mono config path = 'C:/Users/[REDACTED]/OneDrive/Documents/BSManager/BSInstances/1.37.0/MonoBleedingEdge/etc'
+Fallback handler could not load library C:/Users/[REDACTED]/OneDrive/Documents/BSManager/BSInstances/1.37.0/Beat Saber_Data/MonoBleedingEdge/data-0000019BB5194CB0.dll
 Initialize engine version: 2021.3.16f1 (4016570cf34f)
-[Subsystems] Discovering subsystems at path C:/Users/Laure/OneDrive/Documents/BSManager/BSInstances/1.37.0/Beat Saber_Data/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/[REDACTED]/OneDrive/Documents/BSManager/BSInstances/1.37.0/Beat Saber_Data/UnitySubsystems
 [Subsystems] No descriptors matched for  examples in UnitySubsystems/OculusXRPlugin/UnitySubsystemsManifest.json.
 [Subsystems] 1 'inputs' descriptors matched in UnitySubsystems/OculusXRPlugin/UnitySubsystemsManifest.json
 [Subsystems] 1 'displays' descriptors matched in UnitySubsystems/OculusXRPlugin/UnitySubsystemsManifest.json
@@ -2854,22 +2854,22 @@ XRGeneral Settings awakening...
 [Subsystems] Loading plugin UnityOpenXR for subsystem OpenXR Display...
 [XR] [4108] [15:33:24.406][Info   ] Available Layers: (0)
 [Subsystems] Loading plugin UnityOpenXR for subsystem OpenXR Input...
-Fallback handler could not load library C:/Users/Laure/OneDrive/Documents/BSManager/BSInstances/1.37.0/Beat Saber_Data/MonoBleedingEdge/OculusXRPlugin
-Fallback handler could not load library C:/Users/Laure/OneDrive/Documents/BSManager/BSInstances/1.37.0/Beat Saber_Data/MonoBleedingEdge/OculusXRPlugin.dll
-Fallback handler could not load library C:/Users/Laure/OneDrive/Documents/BSManager/BSInstances/1.37.0/Beat Saber_Data/MonoBleedingEdge/OculusXRPlugin.dll
-Fallback handler could not load library C:/Users/Laure/OneDrive/Documents/BSManager/BSInstances/1.37.0/Beat Saber_Data/MonoBleedingEdge/OculusXRPlugin
-Fallback handler could not load library C:/Users/Laure/OneDrive/Documents/BSManager/BSInstances/1.37.0/Beat Saber_Data/MonoBleedingEdge/libOculusXRPlugin
-Fallback handler could not load library C:/Users/Laure/OneDrive/Documents/BSManager/BSInstances/1.37.0/Beat Saber_Data/MonoBleedingEdge/libOculusXRPlugin.dll
-Fallback handler could not load library C:/Users/Laure/OneDrive/Documents/BSManager/BSInstances/1.37.0/Beat Saber_Data/MonoBleedingEdge/libOculusXRPlugin.dll
-Fallback handler could not load library C:/Users/Laure/OneDrive/Documents/BSManager/BSInstances/1.37.0/Beat Saber_Data/MonoBleedingEdge/libOculusXRPlugin
-Fallback handler could not load library C:/Users/Laure/OneDrive/Documents/BSManager/BSInstances/1.37.0/Beat Saber_Data/MonoBleedingEdge/OculusXRPlugin
-Fallback handler could not load library C:/Users/Laure/OneDrive/Documents/BSManager/BSInstances/1.37.0/Beat Saber_Data/MonoBleedingEdge/OculusXRPlugin.dll
-Fallback handler could not load library C:/Users/Laure/OneDrive/Documents/BSManager/BSInstances/1.37.0/Beat Saber_Data/MonoBleedingEdge/OculusXRPlugin.dll
-Fallback handler could not load library C:/Users/Laure/OneDrive/Documents/BSManager/BSInstances/1.37.0/Beat Saber_Data/MonoBleedingEdge/OculusXRPlugin
-Fallback handler could not load library C:/Users/Laure/OneDrive/Documents/BSManager/BSInstances/1.37.0/Beat Saber_Data/MonoBleedingEdge/libOculusXRPlugin
-Fallback handler could not load library C:/Users/Laure/OneDrive/Documents/BSManager/BSInstances/1.37.0/Beat Saber_Data/MonoBleedingEdge/libOculusXRPlugin.dll
-Fallback handler could not load library C:/Users/Laure/OneDrive/Documents/BSManager/BSInstances/1.37.0/Beat Saber_Data/MonoBleedingEdge/libOculusXRPlugin.dll
-Fallback handler could not load library C:/Users/Laure/OneDrive/Documents/BSManager/BSInstances/1.37.0/Beat Saber_Data/MonoBleedingEdge/libOculusXRPlugin
+Fallback handler could not load library C:/Users/[REDACTED]/OneDrive/Documents/BSManager/BSInstances/1.37.0/Beat Saber_Data/MonoBleedingEdge/OculusXRPlugin
+Fallback handler could not load library C:/Users/[REDACTED]/OneDrive/Documents/BSManager/BSInstances/1.37.0/Beat Saber_Data/MonoBleedingEdge/OculusXRPlugin.dll
+Fallback handler could not load library C:/Users/[REDACTED]/OneDrive/Documents/BSManager/BSInstances/1.37.0/Beat Saber_Data/MonoBleedingEdge/OculusXRPlugin.dll
+Fallback handler could not load library C:/Users/[REDACTED]/OneDrive/Documents/BSManager/BSInstances/1.37.0/Beat Saber_Data/MonoBleedingEdge/OculusXRPlugin
+Fallback handler could not load library C:/Users/[REDACTED]/OneDrive/Documents/BSManager/BSInstances/1.37.0/Beat Saber_Data/MonoBleedingEdge/libOculusXRPlugin
+Fallback handler could not load library C:/Users/[REDACTED]/OneDrive/Documents/BSManager/BSInstances/1.37.0/Beat Saber_Data/MonoBleedingEdge/libOculusXRPlugin.dll
+Fallback handler could not load library C:/Users/[REDACTED]/OneDrive/Documents/BSManager/BSInstances/1.37.0/Beat Saber_Data/MonoBleedingEdge/libOculusXRPlugin.dll
+Fallback handler could not load library C:/Users/[REDACTED]/OneDrive/Documents/BSManager/BSInstances/1.37.0/Beat Saber_Data/MonoBleedingEdge/libOculusXRPlugin
+Fallback handler could not load library C:/Users/[REDACTED]/OneDrive/Documents/BSManager/BSInstances/1.37.0/Beat Saber_Data/MonoBleedingEdge/OculusXRPlugin
+Fallback handler could not load library C:/Users/[REDACTED]/OneDrive/Documents/BSManager/BSInstances/1.37.0/Beat Saber_Data/MonoBleedingEdge/OculusXRPlugin.dll
+Fallback handler could not load library C:/Users/[REDACTED]/OneDrive/Documents/BSManager/BSInstances/1.37.0/Beat Saber_Data/MonoBleedingEdge/OculusXRPlugin.dll
+Fallback handler could not load library C:/Users/[REDACTED]/OneDrive/Documents/BSManager/BSInstances/1.37.0/Beat Saber_Data/MonoBleedingEdge/OculusXRPlugin
+Fallback handler could not load library C:/Users/[REDACTED]/OneDrive/Documents/BSManager/BSInstances/1.37.0/Beat Saber_Data/MonoBleedingEdge/libOculusXRPlugin
+Fallback handler could not load library C:/Users/[REDACTED]/OneDrive/Documents/BSManager/BSInstances/1.37.0/Beat Saber_Data/MonoBleedingEdge/libOculusXRPlugin.dll
+Fallback handler could not load library C:/Users/[REDACTED]/OneDrive/Documents/BSManager/BSInstances/1.37.0/Beat Saber_Data/MonoBleedingEdge/libOculusXRPlugin.dll
+Fallback handler could not load library C:/Users/[REDACTED]/OneDrive/Documents/BSManager/BSInstances/1.37.0/Beat Saber_Data/MonoBleedingEdge/libOculusXRPlugin
 <RI> Initializing input.
 
 New input system (experimental) initialized
@@ -2893,7 +2893,7 @@ Using XInput
 OnLevelWasLoaded was found on PluginComponent
 This message has been deprecated and will be removed in a later version of Unity.
 Add a delegate to SceneManager.sceneLoaded instead to get notifications after scene loading has completed
-Fallback handler could not load library C:/Users/Laure/OneDrive/Documents/BSManager/BSInstances/1.37.0/Beat Saber_Data/MonoBleedingEdge/data-0000019C68C7D020.dll
+Fallback handler could not load library C:/Users/[REDACTED]/OneDrive/Documents/BSManager/BSInstances/1.37.0/Beat Saber_Data/MonoBleedingEdge/data-0000019C68C7D020.dll
 UnloadTime: 0.409600 ms
 [XR] [4108] [15:33:30.732][Info   ] OpenXRSession::HandleSessionStateChangedEvent: state XR_SESSION_STATE_READY->XR_SESSION_STATE_SYNCHRONIZED session=72063366473973761 time=21498445519400
 Unloading 4 Unused Serialized files (Serialized files now loaded: 7)
@@ -11566,7 +11566,7 @@ C:\Windows\SYSTEM32\dbghelp.dll:dbghelp.dll (00007FF98E6A0000), size: 1982464 (r
 ========== END OF STACKTRACE ===========
 
 A crash has been intercepted by the crash handler. For call stack and other details, see the latest crash report generated in:
- * C:/Users/kxwal/AppData/Local/Temp/Hyperbolic Magnetism/Beat Saber/Crashes
+ * C:/Users/[REDACTED]/AppData/Local/Temp/Hyperbolic Magnetism/Beat Saber/Crashes
 ```
 </details>
 <details>
@@ -13436,7 +13436,7 @@ C:\WINDOWS\SYSTEM32\CoreMessaging.dll:CoreMessaging.dll (00007FF97A880000), size
 C:\WINDOWS\SYSTEM32\xinput1_3.dll:xinput1_3.dll (0000000000400000), size: 122880 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 9.18.944.0
 C:\WINDOWS\SYSTEM32\dcomp.dll:dcomp.dll (00007FF97A5B0000), size: 2437120 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.22621.3810
 C:\WINDOWS\SYSTEM32\textinputframework.dll:textinputframework.dll (00007FF96EBC0000), size: 1368064 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.22621.3810
-C:\Users\riley\AppData\Local\Medal\recorder-3.830.0\Host\medal-hook64.dll:medal-hook64.dll (00007FF83F4A0000), size: 1331200 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 1.8.0.0
+C:\Users\[REDACTED]\AppData\Local\Medal\recorder-3.830.0\Host\medal-hook64.dll:medal-hook64.dll (00007FF83F4A0000), size: 1331200 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 1.8.0.0
 C:\WINDOWS\SYSTEM32\d3d12.dll:d3d12.dll (00007FF9511D0000), size: 155648 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.22621.3672
 C:\WINDOWS\WinSxS\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.22621.3672_none_2713b9d173822955\comctl32.dll:comctl32.dll (00007FF9714F0000), size: 2699264 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 6.10.22621.3672
 F:\SteamLibrary\steamapps\common\Beat Saber\MonoBleedingEdge\EmbedRuntime\MonoPosixHelper.dll:MonoPosixHelper.dll (00007FF9243B0000), size: 626688 (result: 0), SymType: '-deferred-', PDB: ''
@@ -13581,7 +13581,7 @@ C:\WINDOWS\SYSTEM32\CoreMessaging.dll:CoreMessaging.dll (00007FF97A880000), size
 C:\WINDOWS\SYSTEM32\xinput1_3.dll:xinput1_3.dll (0000000000400000), size: 122880 (result: 0), SymType: '-nosymbols-', PDB: 'C:\WINDOWS\SYSTEM32\xinput1_3.dll', fileVersion: 9.18.944.0
 C:\WINDOWS\SYSTEM32\dcomp.dll:dcomp.dll (00007FF97A5B0000), size: 2437120 (result: 0), SymType: '-nosymbols-', PDB: 'C:\WINDOWS\SYSTEM32\dcomp.dll', fileVersion: 10.0.22621.3810
 C:\WINDOWS\SYSTEM32\textinputframework.dll:textinputframework.dll (00007FF96EBC0000), size: 1368064 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\textinputframework.dll', fileVersion: 10.0.22621.3810
-C:\Users\riley\AppData\Local\Medal\recorder-3.830.0\Host\medal-hook64.dll:medal-hook64.dll (00007FF83F4A0000), size: 1331200 (result: 0), SymType: '-exported-', PDB: 'C:\Users\riley\AppData\Local\Medal\recorder-3.830.0\Host\medal-hook64.dll', fileVersion: 1.8.0.0
+C:\Users\[REDACTED]\AppData\Local\Medal\recorder-3.830.0\Host\medal-hook64.dll:medal-hook64.dll (00007FF83F4A0000), size: 1331200 (result: 0), SymType: '-exported-', PDB: 'C:\Users\[REDACTED]\AppData\Local\Medal\recorder-3.830.0\Host\medal-hook64.dll', fileVersion: 1.8.0.0
 C:\WINDOWS\SYSTEM32\d3d12.dll:d3d12.dll (00007FF9511D0000), size: 155648 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\d3d12.dll', fileVersion: 10.0.22621.3672
 C:\WINDOWS\WinSxS\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.22621.3672_none_2713b9d173822955\comctl32.dll:comctl32.dll (00007FF9714F0000), size: 2699264 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\WinSxS\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.22621.3672_none_2713b9d173822955\comctl32.dll', fileVersion: 6.10.22621.3672
 F:\SteamLibrary\steamapps\common\Beat Saber\MonoBleedingEdge\EmbedRuntime\MonoPosixHelper.dll:MonoPosixHelper.dll (00007FF9243B0000), size: 626688 (result: 0), SymType: '-exported-', PDB: 'F:\SteamLibrary\steamapps\common\Beat Saber\MonoBleedingEdge\EmbedRuntime\MonoPosixHelper.dll'
@@ -13646,7 +13646,7 @@ C:\WINDOWS\SYSTEM32\dbghelp.dll:dbghelp.dll (00007FF974760000), size: 2301952 (r
 ========== END OF STACKTRACE ===========
 
 A crash has been intercepted by the crash handler. For call stack and other details, see the latest crash report generated in:
- * C:/Users/riley/AppData/Local/Temp/Hyperbolic Magnetism/Beat Saber/Crashes
+ * C:/Users/[REDACTED]/AppData/Local/Temp/Hyperbolic Magnetism/Beat Saber/Crashes
 ```
 </details>
 
@@ -13915,7 +13915,7 @@ C:\Program Files\Oculus\Support\oculus-runtime\client-plugins\x64\XR_META_virtua
 ========== END OF STACKTRACE ===========
 
 A crash has been intercepted by the crash handler. For call stack and other details, see the latest crash report generated in:
- * C:/Users/aaden/AppData/Local/Temp/Hyperbolic Magnetism/Beat Saber/Crashes
+ * C:/Users/[REDACTED]/AppData/Local/Temp/Hyperbolic Magnetism/Beat Saber/Crashes
 ```
 </details>
 
@@ -14722,7 +14722,7 @@ C:\WINDOWS\SYSTEM32\dbghelp.dll:dbghelp.dll (00007FF982F80000), size: 2301952 (r
 ========== END OF STACKTRACE ===========
 
 A crash has been intercepted by the crash handler. For call stack and other details, see the latest crash report generated in:
- * C:/Users/aaden/AppData/Local/Temp/Hyperbolic Magnetism/Beat Saber/Crashes
+ * C:/Users/[REDACTED]/AppData/Local/Temp/Hyperbolic Magnetism/Beat Saber/Crashes
 ```
 </details>
 
@@ -15570,7 +15570,7 @@ C:\Program Files\Oculus\Support\oculus-runtime\client-plugins\x64\XR_META_virtua
 ========== END OF STACKTRACE ===========
 
 A crash has been intercepted by the crash handler. For call stack and other details, see the latest crash report generated in:
- * C:/Users/aaden/AppData/Local/Temp/Hyperbolic Magnetism/Beat Saber/Crashes
+ * C:/Users/[REDACTED]/AppData/Local/Temp/Hyperbolic Magnetism/Beat Saber/Crashes
 ```
 </details>
 
@@ -15920,7 +15920,7 @@ C:\WINDOWS\SYSTEM32\dbghelp.dll:dbghelp.dll (00007FFAA56F0000), size: 1982464 (r
 ========== END OF STACKTRACE ===========
 
 A crash has been intercepted by the crash handler. For call stack and other details, see the latest crash report generated in:
- * C:/Users/rgwep/AppData/Local/Temp/Hyperbolic Magnetism/Beat Saber/Crashes
+ * C:/Users/[REDACTED]/AppData/Local/Temp/Hyperbolic Magnetism/Beat Saber/Crashes
 ```
 </details>
 
@@ -16586,7 +16586,7 @@ C:\WINDOWS\SYSTEM32\SspiCli.dll:SspiCli.dll (00007FFCBA390000), size: 274432 (re
 ========== END OF STACKTRACE ===========
 
 A crash has been intercepted by the crash handler. For call stack and other details, see the latest crash report generated in:
- * C:/Users/USER/AppData/Local/Temp/Hyperbolic Magnetism/Beat Saber/Crashes
+ * C:/Users/[REDACTED]/AppData/Local/Temp/Hyperbolic Magnetism/Beat Saber/Crashes
 ```
 </details>
 
@@ -16622,10 +16622,10 @@ Solution: Verify files.
 <summary>Player.log</summary>
 
 ```
-Mono path[0] = 'C:/Users/larae/BSManager/BSInstances/1.29.1/Beat Saber_Data/Managed'
-Mono config path = 'C:/Users/larae/BSManager/BSInstances/1.29.1/MonoBleedingEdge/etc'
+Mono path[0] = 'C:/Users/[REDACTED]/BSManager/BSInstances/1.29.1/Beat Saber_Data/Managed'
+Mono config path = 'C:/Users/[REDACTED]/BSManager/BSInstances/1.29.1/MonoBleedingEdge/etc'
 Initialize engine version: 2019.4.28f1 (1381962e9d08)
-[Subsystems] Discovering subsystems at path C:/Users/larae/BSManager/BSInstances/1.29.1/Beat Saber_Data/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/[REDACTED]/BSManager/BSInstances/1.29.1/Beat Saber_Data/UnitySubsystems
 GfxDevice: creating device client; threaded=1
 XR: OpenVR Error! OpenVR failed initialization with error code VRInitError_Init_HmdNotFound: "Hmd Not Found (108)"! 
 (Filename:  Line: 1889)
@@ -16638,13 +16638,13 @@ Direct3D:
     Driver:   32.0.15.6094
 Begin MonoManager ReloadAssembly
 Crash!!!
-SymInit: Symbol-SearchPath: '.;C:\Users\larae\BSManager\BSInstances\1.29.1;C:\Users\larae\BSManager\BSInstances\1.29.1;C:\Windows;C:\Windows\system32;SRV*C:\websymbols*http://msdl.microsoft.com/download/symbols;', symOptions: 534, UserName: 'larae'
+SymInit: Symbol-SearchPath: '.;C:\Users\[REDACTED]\BSManager\BSInstances\1.29.1;C:\Users\[REDACTED]\BSManager\BSInstances\1.29.1;C:\Windows;C:\Windows\system32;SRV*C:\websymbols*http://msdl.microsoft.com/download/symbols;', symOptions: 534, UserName: 'larae'
 OS-Version: 10.0.0
-C:\Users\larae\BSManager\BSInstances\1.29.1\Beat Saber.exe:Beat Saber.exe (00007FF60C280000), size: 667648 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 2019.4.28.33174
+C:\Users\[REDACTED]\BSManager\BSInstances\1.29.1\Beat Saber.exe:Beat Saber.exe (00007FF60C280000), size: 667648 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 2019.4.28.33174
 C:\Windows\SYSTEM32\ntdll.dll:ntdll.dll (00007FFE54B70000), size: 2064384 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.4522
 C:\Windows\System32\KERNEL32.DLL:KERNEL32.DLL (00007FFE53C40000), size: 790528 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.4717
 C:\Windows\System32\KERNELBASE.dll:KERNELBASE.dll (00007FFE526C0000), size: 3133440 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.4717
-C:\Users\larae\BSManager\BSInstances\1.29.1\UnityPlayer.dll:UnityPlayer.dll (00007FFDA0F00000), size: 26959872 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 2019.4.28.33174
+C:\Users\[REDACTED]\BSManager\BSInstances\1.29.1\UnityPlayer.dll:UnityPlayer.dll (00007FFDA0F00000), size: 26959872 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 2019.4.28.33174
 C:\Windows\System32\USER32.dll:USER32.dll (00007FFE545B0000), size: 1691648 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.4717
 C:\Windows\System32\win32u.dll:win32u.dll (00007FFE523A0000), size: 139264 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.4717
 C:\Windows\System32\GDI32.dll:GDI32.dll (00007FFE53C10000), size: 176128 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.4474
@@ -16679,17 +16679,17 @@ C:\Windows\System32\shcore.dll:shcore.dll (00007FFE53AE0000), size: 708608 (resu
 C:\Windows\SYSTEM32\windows.storage.dll:windows.storage.dll (00007FFE502C0000), size: 7991296 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.4780
 C:\Windows\SYSTEM32\Wldp.dll:Wldp.dll (00007FFE51BD0000), size: 188416 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.4780
 C:\Windows\SYSTEM32\profapi.dll:profapi.dll (00007FFE52150000), size: 147456 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.4355
-C:\Users\larae\BSManager\BSInstances\1.29.1\MonoBleedingEdge\EmbedRuntime\mono-2.0-bdwgc.dll:mono-2.0-bdwgc.dll (00007FFDB6CC0000), size: 7790592 (result: 0), SymType: '-deferred-', PDB: ''
+C:\Users\[REDACTED]\BSManager\BSInstances\1.29.1\MonoBleedingEdge\EmbedRuntime\mono-2.0-bdwgc.dll:mono-2.0-bdwgc.dll (00007FFDB6CC0000), size: 7790592 (result: 0), SymType: '-deferred-', PDB: ''
 C:\Windows\System32\PSAPI.DLL:PSAPI.DLL (00007FFE53C00000), size: 32768 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.3636
 C:\Windows\system32\mswsock.dll:mswsock.dll (00007FFE518D0000), size: 434176 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.3636
-C:\Users\larae\BSManager\BSInstances\1.29.1\Beat Saber_Data\Plugins\x86_64\AudioPluginMsHRTF.dll:AudioPluginMsHRTF.dll (00007FFDB69D0000), size: 3080192 (result: 0), SymType: '-deferred-', PDB: ''
+C:\Users\[REDACTED]\BSManager\BSInstances\1.29.1\Beat Saber_Data\Plugins\x86_64\AudioPluginMsHRTF.dll:AudioPluginMsHRTF.dll (00007FFDB69D0000), size: 3080192 (result: 0), SymType: '-deferred-', PDB: ''
 C:\Windows\SYSTEM32\HrtfApo.dll:HrtfApo.dll (00007FFE3DC80000), size: 499712 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.4355
 C:\Windows\SYSTEM32\CRYPTBASE.DLL:CRYPTBASE.DLL (00007FFE51AE0000), size: 49152 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.3636
-C:\Users\larae\BSManager\BSInstances\1.29.1\Beat Saber_Data\Plugins\x86_64\AudioPluginOculusSpatializer.dll:AudioPluginOculusSpatializer.dll (00007FFDB6690000), size: 3350528 (result: 0), SymType: '-deferred-', PDB: ''
+C:\Users\[REDACTED]\BSManager\BSInstances\1.29.1\Beat Saber_Data\Plugins\x86_64\AudioPluginOculusSpatializer.dll:AudioPluginOculusSpatializer.dll (00007FFDB6690000), size: 3350528 (result: 0), SymType: '-deferred-', PDB: ''
 C:\Windows\System32\MSCTF.dll:MSCTF.dll (00007FFE52C00000), size: 1130496 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.4717
 C:\Windows\SYSTEM32\d3d11.dll:d3d11.dll (00007FFE4CBC0000), size: 2502656 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.4355
 C:\Windows\SYSTEM32\dxgi.dll:dxgi.dll (00007FFE50AA0000), size: 1007616 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.4717
-C:\Users\larae\BSManager\BSInstances\1.29.1\Beat Saber_Data\Plugins\x86_64\openvr_api.dll:openvr_api.dll (00007FFE37F70000), size: 618496 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 1.0.10.0
+C:\Users\[REDACTED]\BSManager\BSInstances\1.29.1\Beat Saber_Data\Plugins\x86_64\openvr_api.dll:openvr_api.dll (00007FFE37F70000), size: 618496 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 1.0.10.0
 C:\Windows\SYSTEM32\msasn1.dll:msasn1.dll (00007FFE51DD0000), size: 73728 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.3636
 C:\Windows\SYSTEM32\cryptnet.dll:cryptnet.dll (00007FFE4AB50000), size: 200704 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.3636
 C:\Windows\SYSTEM32\drvstore.dll:drvstore.dll (00007FFE4A620000), size: 1339392 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.4355
@@ -16750,7 +16750,7 @@ C:\Windows\SYSTEM32\SspiCli.dll:SspiCli.dll (00007FFE520F0000), size: 204800 (re
 ========== END OF STACKTRACE ===========
 
 A crash has been intercepted by the crash handler. For call stack and other details, see the latest crash report generated in:
- * C:/Users/larae/AppData/Local/Temp/Hyperbolic Magnetism/Beat Saber/Crashes
+ * C:/Users/[REDACTED]/AppData/Local/Temp/Hyperbolic Magnetism/Beat Saber/Crashes
 ```
 </details>
 
@@ -16785,14 +16785,14 @@ Solution: Unknown. Most likely corrupted files, try verifying.
 <summary>Player.log</summary>
 
 ```
-Mono path[0] = 'C:/Users/Code/BSManager/BSInstances/1.29.1/Beat Saber_Data/Managed'
-Mono config path = 'C:/Users/Code/BSManager/BSInstances/1.29.1/MonoBleedingEdge/etc'
+Mono path[0] = 'C:/Users/[REDACTED]/BSManager/BSInstances/1.29.1/Beat Saber_Data/Managed'
+Mono config path = 'C:/Users/[REDACTED]/BSManager/BSInstances/1.29.1/MonoBleedingEdge/etc'
 [Debug] Resolving library Newtonsoft.Json, Version=12.0.0.0, Culture=neutral
 [Debug] Looking for file Newtonsoft.Json.dll
-[Debug] Found file Newtonsoft.Json.dll as C:\Users\Code\BSManager\BSInstances\1.29.1\Libs\Newtonsoft.Json.dll
-Fallback handler could not load library C:/Users/Code/BSManager/BSInstances/1.29.1/Beat Saber_Data/Mono/data-000001C04029FF30.dll
+[Debug] Found file Newtonsoft.Json.dll as C:\Users\[REDACTED]\BSManager\BSInstances\1.29.1\Libs\Newtonsoft.Json.dll
+Fallback handler could not load library C:/Users/[REDACTED]/BSManager/BSInstances/1.29.1/Beat Saber_Data/Mono/data-000001C04029FF30.dll
 Initialize engine version: 2019.4.28f1 (1381962e9d08)
-[Subsystems] Discovering subsystems at path C:/Users/Code/BSManager/BSInstances/1.29.1/Beat Saber_Data/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/[REDACTED]/BSManager/BSInstances/1.29.1/Beat Saber_Data/UnitySubsystems
 GfxDevice: creating device client; threaded=1
 [OVRPlugin][ERROR] ovr_Create failed: ovr_Create: No HMD attached.
  (software\oculussdk\integrations\ovrplugin\main\src\util\compositorcapi.cpp:78)[OVRPlugin][ERROR] OVR Error:
@@ -16882,20 +16882,20 @@ This message has been deprecated and will be removed in a later version of Unity
 Add a delegate to SceneManager.sceneLoaded instead to get notifications after scene loading has completed 
 (Filename:  Line: 369)
 
-Fallback handler could not load library C:/Users/Code/BSManager/BSInstances/1.29.1/Beat Saber_Data/Mono/data-000001C0E877A030.dll
-Fallback handler could not load library C:/Users/Code/BSManager/BSInstances/1.29.1/Beat Saber_Data/Mono/libc
-Fallback handler could not load library C:/Users/Code/BSManager/BSInstances/1.29.1/Beat Saber_Data/Mono/libc.dll
-Fallback handler could not load library C:/Users/Code/BSManager/BSInstances/1.29.1/Beat Saber_Data/Mono/libc
-Fallback handler could not load library C:/Users/Code/BSManager/BSInstances/1.29.1/Beat Saber_Data/Mono/data-000001C0F1274790.dll
-Fallback handler could not load library C:/Users/Code/BSManager/BSInstances/1.29.1/Beat Saber_Data/Mono/data-000001C0F1762A20.dll
+Fallback handler could not load library C:/Users/[REDACTED]/BSManager/BSInstances/1.29.1/Beat Saber_Data/Mono/data-000001C0E877A030.dll
+Fallback handler could not load library C:/Users/[REDACTED]/BSManager/BSInstances/1.29.1/Beat Saber_Data/Mono/libc
+Fallback handler could not load library C:/Users/[REDACTED]/BSManager/BSInstances/1.29.1/Beat Saber_Data/Mono/libc.dll
+Fallback handler could not load library C:/Users/[REDACTED]/BSManager/BSInstances/1.29.1/Beat Saber_Data/Mono/libc
+Fallback handler could not load library C:/Users/[REDACTED]/BSManager/BSInstances/1.29.1/Beat Saber_Data/Mono/data-000001C0F1274790.dll
+Fallback handler could not load library C:/Users/[REDACTED]/BSManager/BSInstances/1.29.1/Beat Saber_Data/Mono/data-000001C0F1762A20.dll
 Starting YUR Unity Service task! 
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
 
 Setting up Unity service! UseIPC: False, FirstRun: True 
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
 
-Fallback handler could not load library C:/Users/Code/BSManager/BSInstances/1.29.1/Beat Saber_Data/Mono/data-000001C179C3EA30.dll
-Fallback handler could not load library C:/Users/Code/BSManager/BSInstances/1.29.1/Beat Saber_Data/Mono/data-000001C17CEFCC80.dll
+Fallback handler could not load library C:/Users/[REDACTED]/BSManager/BSInstances/1.29.1/Beat Saber_Data/Mono/data-000001C179C3EA30.dll
+Fallback handler could not load library C:/Users/[REDACTED]/BSManager/BSInstances/1.29.1/Beat Saber_Data/Mono/data-000001C17CEFCC80.dll
 Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
 Ping: Error performing ICMP transmission. Possibly because of a timeout
 Ping: Error performing ICMP transmission. Possibly because of a timeout
@@ -17462,13 +17462,13 @@ Setting relative mode to False
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
 
 Crash!!!
-SymInit: Symbol-SearchPath: '.;C:\Users\Code\BSManager\BSInstances\1.29.1;C:\Users\Code\BSManager\BSInstances\1.29.1;C:\WINDOWS;C:\WINDOWS\system32;SRV*C:\websymbols*http://msdl.microsoft.com/download/symbols;', symOptions: 534, UserName: 'Code'
+SymInit: Symbol-SearchPath: '.;C:\Users\[REDACTED]\BSManager\BSInstances\1.29.1;C:\Users\[REDACTED]\BSManager\BSInstances\1.29.1;C:\WINDOWS;C:\WINDOWS\system32;SRV*C:\websymbols*http://msdl.microsoft.com/download/symbols;', symOptions: 534, UserName: 'Code'
 OS-Version: 10.0.0
-C:\Users\Code\BSManager\BSInstances\1.29.1\Beat Saber.exe:Beat Saber.exe (00007FF6FF780000), size: 667648 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 2019.4.28.33174
+C:\Users\[REDACTED]\BSManager\BSInstances\1.29.1\Beat Saber.exe:Beat Saber.exe (00007FF6FF780000), size: 667648 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 2019.4.28.33174
 C:\WINDOWS\SYSTEM32\ntdll.dll:ntdll.dll (00007FFD864F0000), size: 2064384 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.4522
 C:\WINDOWS\System32\KERNEL32.DLL:KERNEL32.DLL (00007FFD84990000), size: 790528 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.4717
 C:\WINDOWS\System32\KERNELBASE.dll:KERNELBASE.dll (00007FFD83BF0000), size: 3133440 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.4717
-C:\Users\Code\BSManager\BSInstances\1.29.1\UnityPlayer.dll:UnityPlayer.dll (00007FFD0CAD0000), size: 26959872 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 2019.4.28.33174
+C:\Users\[REDACTED]\BSManager\BSInstances\1.29.1\UnityPlayer.dll:UnityPlayer.dll (00007FFD0CAD0000), size: 26959872 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 2019.4.28.33174
 C:\WINDOWS\System32\USER32.dll:USER32.dll (00007FFD84B00000), size: 1691648 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.4717
 C:\WINDOWS\System32\win32u.dll:win32u.dll (00007FFD84410000), size: 139264 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.4717
 C:\WINDOWS\System32\GDI32.dll:GDI32.dll (00007FFD85C50000), size: 176128 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.4474
@@ -17493,7 +17493,7 @@ C:\WINDOWS\SYSTEM32\OPENGL32.dll:OPENGL32.dll (00007FFD17AA0000), size: 1212416 
 C:\WINDOWS\SYSTEM32\WINMM.dll:WINMM.dll (00007FFD7C420000), size: 159744 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.3636
 C:\WINDOWS\System32\CRYPT32.dll:CRYPT32.dll (00007FFD84110000), size: 1433600 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.4597
 C:\WINDOWS\System32\WS2_32.dll:WS2_32.dll (00007FFD84D90000), size: 438272 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.3636
-C:\Users\Code\BSManager\BSInstances\1.29.1\WINHTTP.dll:WINHTTP.dll (00007FFD6EEE0000), size: 49152 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 2.7.1.0
+C:\Users\[REDACTED]\BSManager\BSInstances\1.29.1\WINHTTP.dll:WINHTTP.dll (00007FFD6EEE0000), size: 49152 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 2.7.1.0
 C:\WINDOWS\SYSTEM32\HID.DLL:HID.DLL (00007FFD823E0000), size: 53248 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.3636
 C:\WINDOWS\SYSTEM32\GLU32.dll:GLU32.dll (00007FFD286A0000), size: 180224 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.3636
 C:\WINDOWS\system32\WINHTTP.dll:WINHTTP.dll (00007FFD7D3C0000), size: 1101824 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.4717
@@ -17504,7 +17504,7 @@ C:\WINDOWS\system32\uxtheme.dll:uxtheme.dll (00007FFD81550000), size: 647168 (re
 C:\WINDOWS\SYSTEM32\windows.storage.dll:windows.storage.dll (00007FFD81C40000), size: 7991296 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.4717
 C:\WINDOWS\SYSTEM32\Wldp.dll:Wldp.dll (00007FFD83550000), size: 188416 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.4597
 C:\WINDOWS\SYSTEM32\profapi.dll:profapi.dll (00007FFD83AD0000), size: 147456 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.4355
-C:\Users\Code\BSManager\BSInstances\1.29.1\MonoBleedingEdge\EmbedRuntime\mono-2.0-bdwgc.dll:mono-2.0-bdwgc.dll (00007FFD0C360000), size: 7790592 (result: 0), SymType: '-deferred-', PDB: ''
+C:\Users\[REDACTED]\BSManager\BSInstances\1.29.1\MonoBleedingEdge\EmbedRuntime\mono-2.0-bdwgc.dll:mono-2.0-bdwgc.dll (00007FFD0C360000), size: 7790592 (result: 0), SymType: '-deferred-', PDB: ''
 C:\WINDOWS\System32\PSAPI.DLL:PSAPI.DLL (00007FFD85550000), size: 32768 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.3636
 C:\WINDOWS\SYSTEM32\CRYPTSP.dll:CRYPTSP.dll (00007FFD83440000), size: 98304 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.3636
 C:\WINDOWS\system32\rsaenh.dll:rsaenh.dll (00007FFD82B70000), size: 212992 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.3636
@@ -17512,13 +17512,13 @@ C:\WINDOWS\SYSTEM32\CRYPTBASE.dll:CRYPTBASE.dll (00007FFD83460000), size: 49152 
 C:\WINDOWS\SYSTEM32\amsi.DLL:amsi.DLL (00007FFD74790000), size: 126976 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.4355
 C:\WINDOWS\SYSTEM32\ntmarta.dll:ntmarta.dll (00007FFD82C90000), size: 208896 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.3636
 C:\WINDOWS\system32\mswsock.dll:mswsock.dll (00007FFD83250000), size: 434176 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.3636
-C:\Users\Code\BSManager\BSInstances\1.29.1\Beat Saber_Data\Plugins\x86_64\AudioPluginMsHRTF.dll:AudioPluginMsHRTF.dll (00007FFD11640000), size: 3080192 (result: 0), SymType: '-deferred-', PDB: ''
+C:\Users\[REDACTED]\BSManager\BSInstances\1.29.1\Beat Saber_Data\Plugins\x86_64\AudioPluginMsHRTF.dll:AudioPluginMsHRTF.dll (00007FFD11640000), size: 3080192 (result: 0), SymType: '-deferred-', PDB: ''
 C:\WINDOWS\SYSTEM32\HrtfApo.dll:HrtfApo.dll (00007FFD779E0000), size: 499712 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.4355
-C:\Users\Code\BSManager\BSInstances\1.29.1\Beat Saber_Data\Plugins\x86_64\AudioPluginOculusSpatializer.dll:AudioPluginOculusSpatializer.dll (00007FFD0C020000), size: 3350528 (result: 0), SymType: '-deferred-', PDB: ''
+C:\Users\[REDACTED]\BSManager\BSInstances\1.29.1\Beat Saber_Data\Plugins\x86_64\AudioPluginOculusSpatializer.dll:AudioPluginOculusSpatializer.dll (00007FFD0C020000), size: 3350528 (result: 0), SymType: '-deferred-', PDB: ''
 C:\WINDOWS\System32\MSCTF.dll:MSCTF.dll (00007FFD85290000), size: 1130496 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.4717
 C:\WINDOWS\SYSTEM32\d3d11.dll:d3d11.dll (00007FFD7ECD0000), size: 2502656 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.4355
 C:\WINDOWS\SYSTEM32\dxgi.dll:dxgi.dll (00007FFD82420000), size: 1007616 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.4717
-C:\Users\Code\BSManager\BSInstances\1.29.1\Beat Saber_Data\Plugins\x86_64\OVRPlugin.dll:OVRPlugin.dll (00007FFD0BC00000), size: 4280320 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 1.60.0.0
+C:\Users\[REDACTED]\BSManager\BSInstances\1.29.1\Beat Saber_Data\Plugins\x86_64\OVRPlugin.dll:OVRPlugin.dll (00007FFD0BC00000), size: 4280320 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 1.60.0.0
 C:\WINDOWS\SYSTEM32\MSVFW32.dll:MSVFW32.dll (00007FFD17D60000), size: 176128 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.1
 C:\WINDOWS\SYSTEM32\AVICAP32.dll:AVICAP32.dll (00007FFD50680000), size: 102400 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.1
 C:\WINDOWS\SYSTEM32\AVIFIL32.dll:AVIFIL32.dll (00007FFD6ED90000), size: 135168 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.1
@@ -17557,7 +17557,7 @@ C:\WINDOWS\SYSTEM32\CoreUIComponents.dll:CoreUIComponents.dll (00007FFD7FCB0000)
 C:\WINDOWS\SYSTEM32\CoreMessaging.dll:CoreMessaging.dll (00007FFD800C0000), size: 991232 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.4355
 C:\WINDOWS\SYSTEM32\wintypes.dll:wintypes.dll (00007FFD80600000), size: 1404928 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.4717
 C:\WINDOWS\system32\Oleacc.dll:Oleacc.dll (00007FFD74AE0000), size: 417792 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 7.2.19041.3636
-C:\Users\Code\BSManager\BSInstances\1.29.1\Beat Saber_Data\Plugins\x86_64\openvr_api.dll:openvr_api.dll (00007FFD18260000), size: 618496 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 1.0.10.0
+C:\Users\[REDACTED]\BSManager\BSInstances\1.29.1\Beat Saber_Data\Plugins\x86_64\openvr_api.dll:openvr_api.dll (00007FFD18260000), size: 618496 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 1.0.10.0
 C:\WINDOWS\SYSTEM32\IPHLPAPI.DLL:IPHLPAPI.DLL (00007FFD82F30000), size: 241664 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.3636
 C:\WINDOWS\System32\NSI.dll:NSI.dll (00007FFD84CA0000), size: 32768 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.3636
 C:\WINDOWS\SYSTEM32\dhcpcsvc6.DLL:dhcpcsvc6.DLL (00007FFD7D730000), size: 94208 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.3636
@@ -17565,7 +17565,7 @@ C:\WINDOWS\SYSTEM32\dhcpcsvc.DLL:dhcpcsvc.DLL (00007FFD7DED0000), size: 118784 (
 C:\WINDOWS\SYSTEM32\DNSAPI.dll:DNSAPI.dll (00007FFD82F70000), size: 827392 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.4474
 C:\Windows\System32\rasadhlp.dll:rasadhlp.dll (00007FFD74810000), size: 40960 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.3636
 C:\WINDOWS\System32\fwpuclnt.dll:fwpuclnt.dll (00007FFD74710000), size: 524288 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.4123
-C:\Users\Code\BSManager\BSInstances\1.29.1\Beat Saber_Data\Plugins\x86_64\steam_api64.dll:steam_api64.dll (0000000067770000), size: 266240 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 4.28.51.7
+C:\Users\[REDACTED]\BSManager\BSInstances\1.29.1\Beat Saber_Data\Plugins\x86_64\steam_api64.dll:steam_api64.dll (0000000067770000), size: 266240 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 4.28.51.7
 C:\Program Files (x86)\Steam\steamclient64.dll:steamclient64.dll (00007FFCFDC40000), size: 24170496 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 9.4.36.28
 C:\Program Files (x86)\Steam\vstdlib_s64.dll:vstdlib_s64.dll (00007FFD181A0000), size: 733184 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 9.4.36.28
 C:\WINDOWS\SYSTEM32\Secur32.dll:Secur32.dll (00007FFD63860000), size: 49152 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.3636
@@ -17602,12 +17602,12 @@ C:\Windows\System32\SLC.dll:SLC.dll (00007FFD826A0000), size: 167936 (result: 0)
 C:\Windows\System32\sppc.dll:sppc.dll (00007FFD82670000), size: 151552 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.3636
 C:\Windows\System32\OneCoreCommonProxyStub.dll:OneCoreCommonProxyStub.dll (00007FFD6D7E0000), size: 520192 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.4597
 C:\WINDOWS\SYSTEM32\icmp.dll:icmp.dll (000001C1B8880000), size: 12288 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.1
-C:\Users\Code\BSManager\BSInstances\1.29.1\Libs\Natives\libwebp.DLL:libwebp.DLL (00007FFD07890000), size: 520192 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 1.0.2.0
+C:\Users\[REDACTED]\BSManager\BSInstances\1.29.1\Libs\Natives\libwebp.DLL:libwebp.DLL (00007FFD07890000), size: 520192 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 1.0.2.0
 C:\WINDOWS\SYSTEM32\VCRUNTIME140.dll:VCRUNTIME140.dll (00007FFD65EF0000), size: 122880 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 14.40.33810.0
-C:\Users\Code\BSManager\BSInstances\1.29.1\MonoBleedingEdge\EmbedRuntime\MonoPosixHelper.dll:MonoPosixHelper.dll (00007FFD00CD0000), size: 815104 (result: 0), SymType: '-deferred-', PDB: ''
-C:\Users\Code\BSManager\BSInstances\1.29.1\Libs\Natives\libwebpdemux.DLL:libwebpdemux.DLL (00007FFD6B200000), size: 40960 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 1.0.2.0
-C:\Users\Code\BSManager\BSInstances\1.29.1\Beat Saber_Data\Plugins\x86_64\LIV_Bridge.dll:LIV_Bridge.dll (00007FFD00C50000), size: 512000 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 0.1.5.7
-C:\Users\Code\BSManager\BSInstances\1.29.1\Libs\Native\LookupID.DLL:LookupID.DLL (00007FFD6B1D0000), size: 172032 (result: 0), SymType: '-deferred-', PDB: ''
+C:\Users\[REDACTED]\BSManager\BSInstances\1.29.1\MonoBleedingEdge\EmbedRuntime\MonoPosixHelper.dll:MonoPosixHelper.dll (00007FFD00CD0000), size: 815104 (result: 0), SymType: '-deferred-', PDB: ''
+C:\Users\[REDACTED]\BSManager\BSInstances\1.29.1\Libs\Natives\libwebpdemux.DLL:libwebpdemux.DLL (00007FFD6B200000), size: 40960 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 1.0.2.0
+C:\Users\[REDACTED]\BSManager\BSInstances\1.29.1\Beat Saber_Data\Plugins\x86_64\LIV_Bridge.dll:LIV_Bridge.dll (00007FFD00C50000), size: 512000 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 0.1.5.7
+C:\Users\[REDACTED]\BSManager\BSInstances\1.29.1\Libs\Native\LookupID.DLL:LookupID.DLL (00007FFD6B1D0000), size: 172032 (result: 0), SymType: '-deferred-', PDB: ''
 C:\WINDOWS\SYSTEM32\MSVCP140.dll:MSVCP140.dll (00007FFD65E30000), size: 577536 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 14.40.33810.0
 C:\WINDOWS\SYSTEM32\VCRUNTIME140_1.dll:VCRUNTIME140_1.dll (00007FFD65FE0000), size: 49152 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 14.40.33810.0
 C:\WINDOWS\SYSTEM32\dbghelp.dll:dbghelp.dll (00007FFD7A6E0000), size: 1982464 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.3636
@@ -17636,7 +17636,7 @@ C:\WINDOWS\SYSTEM32\dbghelp.dll:dbghelp.dll (00007FFD7A6E0000), size: 1982464 (r
 ========== END OF STACKTRACE ===========
 
 A crash has been intercepted by the crash handler. For call stack and other details, see the latest crash report generated in:
- * C:/Users/Code/AppData/Local/Temp/Hyperbolic Magnetism/Beat Saber/Crashes
+ * C:/Users/[REDACTED]/AppData/Local/Temp/Hyperbolic Magnetism/Beat Saber/Crashes
 ```
 </details>
 
